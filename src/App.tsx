@@ -326,17 +326,24 @@ export default function App(): JSX.Element {
       </Box>
 
       {/* Footer */}
+      {/* Footer */}
       <Box bg="gray.900" color="white" py={6} mt="auto">
         <Container maxW="7xl">
           <Flex justify="space-between" align="center">
             <Text fontSize="sm" color="gray.400">
               © 2025 File Combiner. Built with ❤️ using React & Chakra UI
             </Text>
-            <HStack gap={4}>
+            <HStack gap={3}>
               <Text fontSize="sm" color="gray.400">
-                Made for developers, by developers
+                Follow me on GitHub
               </Text>
-              <Github size={16} color="#9CA3AF" />
+              <a
+                href="https://github.com/AbdulHadi404"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Github size={18} color="#9CA3AF" />
+              </a>
             </HStack>
           </Flex>
         </Container>
