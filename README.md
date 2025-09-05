@@ -23,3 +23,6 @@ Demo: https://file-merger-app-demo.vercel.app/
 2. They’ll be merged into one text block on the right
 3. Copy all content with a single click
 4. Paste into Claude/GPT without worrying about upload limits
+
+
+<img width="1907" height="880" alt="image" src="https://github.com/user-attachments/assets/42ccda74-fd06-427c-89d0-aff528b95b90" />
