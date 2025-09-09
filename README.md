@@ -22,6 +22,5 @@ Demo: https://file-merger-app-demo.vercel.app/
 1. Drop your files on the left panel
 2. They’ll be merged into one text block on the right
 3. Copy all content with a single click
-4. Paste into Claude/GPT without worrying about upload limits
 
 
